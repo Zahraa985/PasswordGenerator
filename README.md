@@ -21,5 +21,4 @@ This will send the user a series of prompts and confirms.
 After user data is collected, a random password will be generated using Javascript.
 A Textarea: This textarea will display the users password once it is generated
 
-A demo of working project:
-https://imgflip.com/gif/4moywn 
+
